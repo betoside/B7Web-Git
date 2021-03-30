@@ -5,3 +5,4 @@ Sistema no git
     reset mixed
 
 7. Trabalhando com diferentes Branches
+alteracao feita no master
