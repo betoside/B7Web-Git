@@ -1,3 +1,3 @@
 Sistema no git
 
-Alteraçao no readme.md
+6. revertendo modificacoes
