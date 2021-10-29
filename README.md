@@ -13,3 +13,6 @@ adicionando e comitando ao mesmo tempo
 git commit -am 'bla bla bla'
 new push sem 'origin master' determinado
 
+14. deletando branches
+remoto: git branch :teste
+local: git branch -D teste
