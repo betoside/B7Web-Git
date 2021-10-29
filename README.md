@@ -14,5 +14,9 @@ git commit -am 'bla bla bla'
 new push sem 'origin master' determinado
 
 14. deletando branches
+mandando branches locais para o remoto:
+git push origin <nome do branch>
+git push origin teste
+
 remoto: git branch :teste
 local: git branch -D teste
