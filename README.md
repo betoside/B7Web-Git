@@ -20,3 +20,8 @@ git push origin teste
 
 remoto: git branch :teste
 local: git branch -D teste
+
+15. puxando alterações de outras pessoas
+OBS/RECOMENDACAO:
+Fazer um PULL antes de fazer um trabalho ou push.
+Isso evita bastante problema.
