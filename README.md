@@ -13,3 +13,6 @@ adicionando e comitando ao mesmo tempo
 git commit -am 'bla bla bla'
 new push sem 'origin master' determinado
 
+13. git revert, salvar a sexta-feira
+revertendo sem perder o código.
+NO NO NO NO NO
