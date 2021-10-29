@@ -1,3 +1,4 @@
+<pre>
 Sistema no git
 
 6. revertendo modificacoes
@@ -11,3 +12,4 @@ alteracao feita no master
 adicionando e comitando ao mesmo tempo
 git commit -am 'bla bla bla'
 new push sem 'origin master' determinado
+
